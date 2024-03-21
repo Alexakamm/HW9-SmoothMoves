@@ -1,8 +1,4 @@
 res://movement_demo.tscn
 res://hw_problem_2.tscn
 res://hw_problem_3.tscn
-res://Scripts/MoveCharacter.gd
-res://Scripts/DeadlyGround.gd
-res://Scripts/PolygonCollisionShaper.gd
-res://Scripts/DeadlyArea.gd
 res://hw_problem_1.tscn

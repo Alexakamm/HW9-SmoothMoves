@@ -15,11 +15,11 @@ script = ExtResource("1_6t8ew")
 position = Vector2(204, 286)
 floor_snap_length = 8.1
 script = ExtResource("1_bnc3r")
-jump_height = 2000.0
+jump_height = 5000.0
 movement_speed = 100.0
 horizontal_air_coefficient = 0.3
 speed_limit = 400.0
-friction = 0.2
+friction = 0.8
 
 [node name="Icon" type="Sprite2D" parent="CharacterBody2D"]
 scale = Vector2(0.34375, 0.34375)
